@@ -1,0 +1,95 @@
+h1{
+    color:red;
+    font-family: nyala;
+    font-size: 50px;
+    text-align:center;
+}
+h2,h3,h4,.input2,.input3{
+    text-align:center;
+}
+#home{
+    margin: 0%;
+    position: relative;
+}
+.input2{
+    position: absolute;
+    top: 250px;
+    left: 450px;  
+}
+.input3{
+    position: absolute;
+    bottom: 420px;
+    left: 630px;  
+}
+body{
+    background-color: black;
+    color: white;
+}
+#email{
+    width: 35%;
+    height: 30px;
+    border: 2px;
+    border-radius: 5px;
+}
+#start{
+    width: 15%;
+    height: 30px;
+    border: 2px;
+    border-radius: 5px;
+}
+a:link{
+    color:red;
+}
+a:visited{
+    color:red;
+}
+.sample{
+    text-align: right;
+    font-size: 22px;
+    color: red;
+}
+#big{
+    opacity: 0.3;
+}
+.child1{
+    font-size: 20px;
+    padding-left: 20px;
+}
+.child2{
+    flex-basis: 40%;
+}
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+.container1.child1{
+    font-size: 20px;
+    text-align: right;
+    padding-right: 20px;
+}
+.container1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.tab{
+    width: 600px;
+    height: 5px;
+    text-align: center;
+}
+#language{
+    width:7.5%;
+    height:35px;
+    border:2px;
+    border-radius:5px;
+}
+input#signin{
+    width:7.5%;
+    height:35px;
+    border:2px;
+    border-radius:5px;
+}
+
+  
+
